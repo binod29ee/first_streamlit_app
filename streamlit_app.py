@@ -46,5 +46,5 @@ streamlit.dataframe(my_data_rows)
 
 #New section to display food list
 
-fruit_add = streamlit.text_input('What fruit would you like to add ?','Jackfruit')
+fruit_add = streamlit.text_input('What fruit would you like to add ?','jackfruit')
 streamlit.write('Thanks for adding',fruit_add)
